@@ -16,6 +16,7 @@
 <body>
   <div id="wrap" style="margin:auto;width:500px;text-align:center;">
     <h3>LIVE GET DATA FROM DATABASE</h3>
+	  <!-- Bác custom lại code ở chỗ này nhé-->
 	   <button type="submit" value='11' class='get' name="get" onclick="request(this)">1</button>
        <button type="submit" value='13' class='get' name="get" onclick="request(this)">2</button>
        <button type="submit" value='17' class='get' name="get" onclick="request(this)">3</button>
